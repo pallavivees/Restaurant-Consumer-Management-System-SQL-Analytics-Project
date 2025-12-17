@@ -41,6 +41,7 @@ ER diagram included in **schema/ER Diagram.png**
 ```sql
 CREATE DATABASE retro;
 USE retro;
+```
 3. Import all the CSV files and run them:
 ``` files
 select * from consumer_preferences;
@@ -48,4 +49,5 @@ select * from consumers;
 select * from ratings;
 select * from restaurant_cuisines;
 select * from restaurants;
+```
 4. Execute all the queries and ER diagram using relationships. 
