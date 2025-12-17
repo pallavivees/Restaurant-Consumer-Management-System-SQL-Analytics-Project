@@ -35,6 +35,20 @@ ER diagram included in **schema/ER Diagram.png**
 
 ---
 
+## 📈 Sample Insights
+
+Top-rated restaurants per cuisine
+
+Consumers who prefer Mexican cuisine but gave low ratings
+
+Restaurants below average food rating
+
+Age-based consumer segmentation
+
+Cuisines preferred by low-budget students
+
+---
+
 ## 📝 How to Run
 1. Open MySQL Workbench  
 2. Create database:
