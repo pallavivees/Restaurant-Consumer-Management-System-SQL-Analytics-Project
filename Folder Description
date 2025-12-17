@@ -1,0 +1,21 @@
+Restaurant Consumers sql project
+│
+├── README.md
+│
+├── data/
+│   ├── consumers.csv
+│   ├── consumer_preferences.csv
+│   ├── restaurants.csv
+│   ├── restaurant_cuisines.csv
+│   ├── ratings.csv
+│
+├── schema/
+│   ├── Restaurant & Consumers Management system.sql
+│   └── retro er diagram.png
+│
+└── queries/
+    ├── basic_where_queries.sql
+    ├── join_queries.sql
+    ├── aggregate_queries.sql
+    ├── CTE_views_windows.sql
+    ├── stored_procedures.sql
