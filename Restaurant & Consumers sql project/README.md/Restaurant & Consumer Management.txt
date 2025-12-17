@@ -1,0 +1,6 @@
+# 🍽️ Restaurant & Consumer Management System – SQL Project
+
+This SQL project analyzes restaurant data, consumer behavior, preferences, and ratings using an end-to-end relational database approach.  
+It includes schema design, ER diagram, CRUD operations, joins, subqueries, CTEs, window functions, views, and stored procedures.
+
+---
